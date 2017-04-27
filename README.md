@@ -1,1 +1,1 @@
-# avroKafka
+用avro作为序列化工具，实现producer的功能
